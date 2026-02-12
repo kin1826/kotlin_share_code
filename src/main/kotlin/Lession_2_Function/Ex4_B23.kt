@@ -1,3 +1,5 @@
+package Lession_2_Function
+
 fun sumArray(arr: IntArray): Int {
     var sum = 0
     for (x in arr) sum += x

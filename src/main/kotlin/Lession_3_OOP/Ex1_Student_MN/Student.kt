@@ -1,4 +1,4 @@
-package Student_MN
+package Lession_3_OOP.Ex1_Student_MN
 
 class Student(
     val id: Int,
